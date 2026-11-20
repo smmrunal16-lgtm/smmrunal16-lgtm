@@ -1,6 +1,6 @@
 <!-- MRUNAL MHETRE | ADVANCED ANIMATED GITHUB PROFILE -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=MRUNAL%20MHETRE&fontSize=58&fontColor=EAF6FF&stroke=38BDF8&strokeWidth=1&animation=twinkling&desc=COMPUTER%20SCIENCE%20ENGINEERING%20%7C%20SOFTWARE%20DEVELOPER&descSize=14&descAlignY=72&color=0:020617,45:0B1B3A,100:164E75" alt="Animated profile header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=MRUNAL%20MHETRE&fontSize=58&fontColor=EAF6FF&stroke=38BDF8&strokeWidth=1&animation=twinkling&desc=COMPUTER%20SCIENCE%20ENGINEERING&descSize=14&descAlignY=72&color=0:020617,45:0B1B3A,100:164E75" alt="Animated profile header" />
 </p>
 
 <p align="center">
