@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&text=MRUNAL%20MHETRE&fontSize=64&fontColor=F0FDFF&stroke=22D3EE&animation=twinkling&desc=COMPUTER%20SCIENCE&descSize=14&color=0:020617,50:172554,100:4C1D95" alt="Neon profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&text=MRUNAL%20MHETRE&fontSize=64&fontColor=F0FDFF&stroke=22D3EE&animation=twinkling&desc=COMPUTER%20SCIENCE&descSize=12&descAlignY=68&fontAlignY=38&color=0:020617,50:172554,100:4C1D95" alt="Neon profile banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=67E8F9&center=true&vCenter=true&width=850&height=50&lines=Computer+Science+Engineering+Student;Developer+%7C+Learner+%7C+Problem+Solver;Building+projects+with+code" alt="Typing introduction"/>
 
