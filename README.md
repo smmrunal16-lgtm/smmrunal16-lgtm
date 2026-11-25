@@ -2,16 +2,15 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&text=MRUNAL%20MHETRE&fontSize=64&fontColor=F0FDFF&stroke=22D3EE&animation=twinkling&desc=COMPUTER%20SCIENCE&descSize=12&descAlignY=68&fontAlignY=38&color=0:020617,50:172554,100:4C1D95" alt="Neon profile banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=700&color=67E8F9&center=true&vCenter=true&width=700&height=36&lines=COMPUTER+SCIENCE" alt="Animated Computer Science title"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=67E8F9&center=true&vCenter=true&width=850&height=60&lines=Computer+Science;AI+%26+IoT+Enthusiast;Developer+%7C+Learner+%7C+Problem+Solver;Building+projects+with+code" alt="Typing introduction"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=210&text=MRUNAL%20MHETRE&fontSize=58&fontColor=F0FDFF&stroke=22D3EE&animation=twinkling&fontAlignY=42&color=0:020617,50:172554,100:4C1D95" alt="Neon profile banner"/>
 
 <a href="https://github.com/smmrunal16-lgtm"><img src="https://komarev.com/ghpvc/?username=smmrunal16-lgtm&style=flat-square&color=0891b2&label=PROFILE+VIEWS"/></a>
 <a href="https://github.com/smmrunal16-lgtm?tab=followers"><img src="https://img.shields.io/github/followers/smmrunal16-lgtm?style=flat-square&color=6d28d9&label=FOLLOWERS"/></a>
 
 </div>
 
----
 
 ## ⟡ About Me
 
@@ -39,9 +38,9 @@ A **Computer Science Engineering student** passionate about programming, web dev
 ## ⟡ GitHub Activity
 
 <div align="center">
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmrunal16-lgtm&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmrunal16-lgtm&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 <br/>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=smmrunal16-lgtm&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity"/>
+<img width="82%" src="https://github-readme-activity-graph.vercel.app/graph?username=smmrunal16-lgtm&theme=tokyo-night&hide_border=true&area=true&height=180" alt="Contribution activity"/>
 </div>
 
 ## ⟡ Connect
