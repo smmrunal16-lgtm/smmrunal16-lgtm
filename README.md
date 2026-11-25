@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=MRUNAL%20MHETRE&fontSize=70&fontColor=F0FDFF&stroke=22D3EE&strokeWidth=1.5&animation=twinkling&fontAlignY=40&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20INNOVATE&descSize=17&descColor=C4B5FD&descAlignY=61&color=0:020617,25:0C1A36,55:172554,100:4C1D95" alt="Animated neon profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=360&width=1920&text=MRUNAL%20MHETRE&fontSize=82&fontColor=F0FDFF&stroke=22D3EE&strokeWidth=1.5&animation=twinkling&fontAlignY=40&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20INNOVATE&descSize=17&descColor=C4B5FD&descAlignY=61&color=0:020617,25:0C1A36,55:172554,100:4C1D95" alt="Animated neon profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=700&color=67E8F9&center=true&vCenter=true&width=850&height=55&lines=Hey!+I'm+Mrunal+Mhetre+%F0%9F%91%8B;Computer+Science+Engineering+Student;Developer+%7C+Learner+%7C+Problem+Solver;Exploring+Web+%2B+IoT+%2B+Software;Turning+curiosity+into+code..." alt="Animated typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=700&color=67E8F9&center=true&vCenter=true&width=1400&height=80&lines=Hey!+I'm+Mrunal+Mhetre+%F0%9F%91%8B;Computer+Science+Engineering+Student;Developer+%7C+Learner+%7C+Problem+Solver;Exploring+Web+%2B+IoT+%2B+Software;Turning+curiosity+into+code..." alt="Animated typing introduction"/>
 
 <br/>
 
@@ -78,8 +78,8 @@ I'm **Mrunal Mhetre**, a Computer Science Engineering student who enjoys learnin
 ## ⟡ 03 / FEATURED PROJECTS
 
 <div align="center">
-<a href="https://github.com/smmrunal16-lgtm/Smart-Guardian-IoT-Manhole-Monitoring-System"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=smmrunal16-lgtm&repo=Smart-Guardian-IoT-Manhole-Monitoring-System&theme=tokyonight&hide_border=true" alt="Smart Guardian project card"/></a>
-<a href="https://github.com/smmrunal16-lgtm/C-Language-practice-program"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=smmrunal16-lgtm&repo=C-Language-practice-program&theme=tokyonight&hide_border=true" alt="C practice project card"/></a>
+<a href="https://github.com/smmrunal16-lgtm/Smart-Guardian-IoT-Manhole-Monitoring-System"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=smmrunal16-lgtm&repo=Smart-Guardian-IoT-Manhole-Monitoring-System&theme=tokyonight&show_owner=true&hide_border=true" alt="Smart Guardian project card"/></a>
+<a href="https://github.com/smmrunal16-lgtm/C-Language-practice-program"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=smmrunal16-lgtm&repo=C-Language-practice-program&theme=tokyonight&show_owner=true&hide_border=true" alt="C practice project card"/></a>
 </div>
 
 
@@ -87,8 +87,8 @@ I'm **Mrunal Mhetre**, a Computer Science Engineering student who enjoys learnin
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=smmrunal16-lgtm&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=080D1B&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmrunal16-lgtm&layout=donut-vertical&langs_count=6&hide_border=true&bg_color=080D1B&title_color=67E8F9&text_color=E2E8F0" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=smmrunal16-lgtm&show_icons=true&include_all_commits=true&count_private=true&card_width=620&hide_border=true&rank_icon=github&bg_color=080D1B&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmrunal16-lgtm&layout=donut-vertical&langs_count=6&card_width=520&hide_border=true&bg_color=080D1B&title_color=67E8F9&text_color=E2E8F0" alt="Top languages"/>
 
 <br/><br/>
 
