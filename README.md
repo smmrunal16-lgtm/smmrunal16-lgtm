@@ -87,24 +87,11 @@ I'm **Mrunal Mhetre**, a Computer Science Engineering student who enjoys learnin
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=smmrunal16-lgtm&show_icons=true&include_all_commits=true&hide_border=true&border_radius=14&rank_icon=github&theme=tokyonight" alt="GitHub profile statistics"/>
-</td>
-<td width="50%" align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmrunal16-lgtm&layout=compact&langs_count=8&hide_border=true&border_radius=14&theme=tokyonight" alt="Most used programming languages"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=smmrunal16-lgtm&theme=tokyonight&hide_border=true&border_radius=14" alt="GitHub contribution streak"/>
+<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmrunal16-lgtm&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&hide_title=true" alt="Programming languages overview"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=smmrunal16-lgtm&theme=tokyo-night&hide_border=true&radius=14&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=smmrunal16-lgtm&theme=tokyo-night&hide_border=true&radius=14&area=true&custom_title=Coding%20Activity" alt="Coding activity graph"/>
 
 </div>
 
@@ -118,17 +105,7 @@ I'm **Mrunal Mhetre**, a Computer Science Engineering student who enjoys learnin
 </picture>
 </div>
 
-## ⟡ 06 / NEXT MILESTONES
-
-<table>
-<tr><td>🧠</td><td><b>Problem Solving</b></td><td>Strengthen DSA and logical thinking</td></tr>
-<tr><td>🌐</td><td><b>Web Engineering</b></td><td>Create polished responsive applications</td></tr>
-<tr><td>⚙️</td><td><b>Software Craft</b></td><td>Write clean and maintainable code</td></tr>
-<tr><td>🔌</td><td><b>IoT Systems</b></td><td>Explore sensors and connected devices</td></tr>
-<tr><td>🌍</td><td><b>Open Source</b></td><td>Collaborate and contribute</td></tr>
-</table>
-
-## ⟡ 07 / LET'S CONNECT
+## ⟡ 06 / LET'S CONNECT
 
 <div align="center">
 
