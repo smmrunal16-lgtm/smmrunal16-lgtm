@@ -1,150 +1,156 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--              MRUNAL MHETRE | GITHUB DEVELOPER SPACE            -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!--
+  MRUNAL MHETRE | GITHUB PROFILE
+  Theme: Midnight • Electric Cyan • Violet
+-->
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=MRUNAL%20MHETRE&fontSize=64&fontColor=E0F2FE&stroke=38BDF8&strokeWidth=1.5&animation=twinkling&desc=COMPUTER%20SCIENCE%20ENGINEERING&descSize=16&descAlignY=72&color=0:020617,35:0B1B3A,70:123B65,100:0369A1" alt="Animated neon blue profile banner" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=Hey%2C+I'm+Mrunal+Mhetre+%F0%9F%91%8B;COMPUTER+SCIENCE+ENGINEERING+STUDENT;Exploring+AI+%7C+IoT+%7C+Web+Technologies;Building+Projects+That+Solve+Problems;LEARN.+BUILD.+INNOVATE." alt="Animated typing introduction" />
-</p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&text=MRUNAL%20MHETRE&fontSize=64&fontColor=EAFBFF&fontAlignY=42&desc=COMPUTER%20SCIENCE%20ENGINEERING%20%7C%20DEVELOPER%20IN%20PROGRESS&descSize=15&descAlignY=64&animation=fadeIn&color=0:050816,45:101B3D,100:075985" alt="Mrunal Mhetre animated profile banner" />
 
-<p align="center">
-  <a href="https://github.com/smmrunal16-lgtm"><img src="https://komarev.com/ghpvc/?username=smmrunal16-lgtm&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" /></a>
-  <a href="https://github.com/smmrunal16-lgtm?tab=followers"><img src="https://img.shields.io/github/followers/smmrunal16-lgtm?style=for-the-badge&logo=github&color=1d4ed8&label=FOLLOWERS" alt="Followers" /></a>
-  <a href="https://github.com/smmrunal16-lgtm?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Repositories" /></a>
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=850&height=55&lines=Hey%2C+I'm+Mrunal+Mhetre+%F0%9F%91%8B;Computer+Science+Engineering+Student;Exploring+Web+Development+%7C+IoT+%7C+AI;Turning+ideas+into+working+projects;LEARN.+BUILD.+INNOVATE." alt="Animated introduction" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-TECHNOLOGY%20%26%20INNOVATION-082f49?style=for-the-badge" alt="Focus technology and innovation" />
-  <img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-0c4a6e?style=for-the-badge" alt="Always learning" />
-</p>
+  <br/>
+
+  <a href="https://github.com/smmrunal16-lgtm">
+    <img src="https://komarev.com/ghpvc/?username=smmrunal16-lgtm&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/smmrunal16-lgtm?tab=followers">
+    <img src="https://img.shields.io/github/followers/smmrunal16-lgtm?style=for-the-badge&logo=github&color=334155&label=FOLLOWERS" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/smmrunal16-lgtm?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore repositories"/>
+  </a>
+
+  <br/><br/>
+  **✦ Curious Mind &nbsp; • &nbsp; Practical Builder &nbsp; • &nbsp; Lifelong Learner ✦**
+</div>
 
 ---
 
-## ▸ 01 / PROFILE
+## ◈ ABOUT ME
 
 <table>
-<tr>
-<td width="58%" valign="top">
+  <tr>
+    <td width="58%" valign="top">
 
 ### Hello, World! 👋
 
-I'm a **Computer Science Engineering student** passionate about programming, emerging technologies, and building practical projects.
+I'm **Mrunal Mhetre**, a Computer Science Engineering student who enjoys exploring technology and building practical projects.
 
-- 🎓 Diploma completed; pursuing CSE
-- 🧠 Interested in AI, IoT, and software technologies
-- ⚙️ Enjoy learning through hands-on development
-- 🎯 Focused on problem-solving and continuous improvement
+- 🎓 Diploma completed; currently pursuing CSE
+- 💻 Interested in programming and software development
+- 🌐 Exploring modern web technologies
+- 🔌 Interested in IoT and connected systems
+- 🚀 Learning by building, testing, and improving
 
-</td>
-<td width="42%" valign="top">
+    </td>
+    <td width="42%" valign="top">
 
-### Developer mindset
+### Developer snapshot
 
-```text
+~~~js
 const mrunal = {
   role: "CSE Student",
-  interests: ["AI", "IoT", "Web"],
+  interests: ["Web Development", "IoT", "AI & Technology"],
   mindset: "Always Learning",
-  goal: "Build useful technology"
+  goal: "Build useful things"
 };
-```
+~~~
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
-## ▸ 02 / TECHNOLOGY STACK
+## ◈ TECH STACK
 
-<p align="center"><b>PROGRAMMING · WEB · EMBEDDED · DEVELOPMENT TOOLS</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,php,html,css,js,arduino,git,github,vscode&perline=5&theme=dark" alt="C, Java, PHP, HTML, CSS, JavaScript, Arduino, Git, GitHub and VS Code" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LEARNING-NEXT%3A%20DSA%20%7C%20ADVANCED%20C%20%7C%20AI-0b1220?style=for-the-badge&labelColor=075985" alt="Learning roadmap" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,php,html,css,js,react,nodejs,arduino,git,github,vscode&perline=6&theme=dark" alt="Technology stack icons"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/FOCUS-Programming%20%26%20Problem%20Solving-082f49?style=for-the-badge&labelColor=020617" alt="Focus"/>
+  <img src="https://img.shields.io/badge/MINDSET-Always%20Learning-312e81?style=for-the-badge&labelColor=020617" alt="Mindset"/>
+</div>
 
-## ▸ 03 / SELECTED PROJECTS
+## ◈ FEATURED PROJECTS
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
-<h3>🩺 AI HEALTHCARE CHATBOT</h3>
-<p>A conversational project focused on making healthcare-related information easier to explore through a simple chatbot interface.</p>
-<p>
-  <img src="https://img.shields.io/badge/Frontend-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Assisted-0891b2?style=flat-square" alt="AI assisted" />
-</p>
-<a href="https://github.com/smmrunal16-lgtm/AI-Healthcare-Chatbot-">↗ Explore repository</a>
+### 🛡️ Smart Guardian
 
-</td>
-<td width="50%" valign="top">
+**IoT-Based Manhole Monitoring System**
 
-<h3>🛡️ SMART GUARDIAN</h3>
-<p>An IoT-based manhole monitoring concept designed to detect hazardous gases and send safety alerts.</p>
-<p>
-  <img src="https://img.shields.io/badge/Controller-ESP32-00979D?style=flat-square&logo=espressif" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Sensors-MQ136%20%7C%20MQ6%20%7C%20DHT22-0f766e?style=flat-square" alt="Sensors" />
-</p>
-<a href="https://github.com/smmrunal16-lgtm/Smart-Guardian-IoT-Manhole-Monitoring-System">↗ Explore repository</a>
+A safety-focused IoT concept for monitoring hazardous gases in manholes and sending alerts.
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+**ESP32 · MQ136 · MQ6 · DHT22 · GSM**
 
-<h3>⚙️ C LANGUAGE PRACTICE & ALGORITHMS</h3>
-<p>Programming practice and advanced examples covering C fundamentals, data structures, algorithms, trees, graphs, and more.</p>
-<a href="https://github.com/smmrunal16-lgtm/C-Language-practice-program">↗ Explore repository</a>
+<a href="https://github.com/smmrunal16-lgtm/Smart-Guardian-IoT-Manhole-Monitoring-System">↗ View project</a>
 
-</td>
-</tr>
+    </td>
+    <td width="50%" valign="top">
+
+### 🩺 AI Healthcare Chatbot
+
+A healthcare information chatbot concept with a PHP-based frontend, designed to make information easier to access.
+
+**PHP · Web Development · Chatbot**
+
+<a href="https://github.com/smmrunal16-lgtm/AI-Healthcare-Chatbot-">↗ View project</a>
+
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+
+### ⚙️ C Language Practice
+
+A growing collection of C programming practice, concepts, and problem-solving exercises.
+
+**C · Programming · Practice**
+
+<a href="https://github.com/smmrunal16-lgtm/C-Language-practice-program">↗ View repository</a>
+
+    </td>
+  </tr>
 </table>
 
-## ▸ 04 / GITHUB ANALYTICS
+## ◈ GITHUB ANALYTICS
 
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=smmrunal16-lgtm&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=22D3EE&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmrunal16-lgtm&layout=compact&langs_count=8&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages" />
-</p>
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=smmrunal16-lgtm&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmrunal16-lgtm&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=CBD5E1" alt="Top languages"/>
+  <br/><br/>
+  <img width="78%" src="https://streak-stats.demolab.com?user=smmrunal16-lgtm&hide_border=true&background=050816&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+  <br/><br/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=smmrunal16-lgtm&bg_color=050816&color=CBD5E1&line=67E8F9&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
+</div>
 
-<p align="center">
-  <img width="78%" src="https://streak-stats.demolab.com?user=smmrunal16-lgtm&hide_border=true&background=020617&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
-</p>
+## ◈ CONTRIBUTION SNAKE
 
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=smmrunal16-lgtm&bg_color=020617&color=CBD5E1&line=38BDF8&point=22D3EE&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
-</p>
-
-## ▸ 05 / CONTRIBUTION ANIMATION
-
-<p align="center">
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smmrunal16-lgtm/smmrunal16-lgtm/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smmrunal16-lgtm/smmrunal16-lgtm/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/smmrunal16-lgtm/smmrunal16-lgtm/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smmrunal16-lgtm/smmrunal16-lgtm/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smmrunal16-lgtm/smmrunal16-lgtm/output/github-contribution-grid-snake.svg"/>
+    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/smmrunal16-lgtm/smmrunal16-lgtm/output/github-contribution-grid-snake.svg"/>
   </picture>
-</p>
+</div>
 
-## ▸ 06 / CURRENT ROADMAP
+## ◈ CURRENT LEARNING ROADMAP
 
-- [x] Create academic and practical projects
+- [x] Build academic and practical projects
 - [x] Explore programming and web technologies
 - [ ] Strengthen Data Structures & Algorithms
 - [ ] Build advanced full-stack applications
-- [ ] Explore applied AI and automation
-- [ ] Participate in open-source development
+- [ ] Improve software engineering practices
+- [ ] Contribute to open-source projects
 
-## ▸ 07 / CONNECT & EXPLORE
+## ◈ LET'S CONNECT
 
-<p align="center">
-  <a href="https://github.com/smmrunal16-lgtm"><img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" /></a>
-</p>
-<p align="center"><b>“Think boldly. Build consistently. Keep innovating.”</b></p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,45:123B65,100:020617&height=145&section=footer&animation=twinkling" alt="Animated blue footer" />
-</p>
+<div align="center">
+  <a href="https://github.com/smmrunal16-lgtm">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+  </a>
+  <br/><br/>
+  **“Think boldly. Build consistently. Keep innovating.”**
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:075985,50:312e81,100:050816" alt="Animated footer"/>
+</div>
