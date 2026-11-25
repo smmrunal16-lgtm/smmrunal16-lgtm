@@ -20,7 +20,7 @@
 
 ---
 
-## ⟡ 01 / THE DEVELOPER
+## ⟡ THE DEVELOPER
 
 <table>
 <tr>
@@ -56,7 +56,7 @@ I'm **Mrunal Mhetre**, a Computer Science Engineering student who enjoys learnin
 </tr>
 </table>
 
-## ⟡ 02 / TECH ARSENAL
+## ⟡ TECH ARSENAL
 
 <div align="center">
 
@@ -75,7 +75,7 @@ I'm **Mrunal Mhetre**, a Computer Science Engineering student who enjoys learnin
 
 </div>
 
-## ⟡ 03 / FEATURED PROJECTS
+## ⟡ FEATURED PROJECTS
 
 <div align="center">
 <a href="https://github.com/smmrunal16-lgtm/Smart-Guardian-IoT-Manhole-Monitoring-System"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=smmrunal16-lgtm&repo=Smart-Guardian-IoT-Manhole-Monitoring-System&theme=tokyonight&show_owner=true&hide_border=true" alt="Smart Guardian project card"/></a>
@@ -83,7 +83,7 @@ I'm **Mrunal Mhetre**, a Computer Science Engineering student who enjoys learnin
 </div>
 
 
-## ⟡ 04 / GITHUB ANALYTICS
+## ⟡ GITHUB ANALYTICS
 
 <div align="center">
 
@@ -95,7 +95,7 @@ I'm **Mrunal Mhetre**, a Computer Science Engineering student who enjoys learnin
 
 </div>
 
-## ⟡ 05 / CONTRIBUTION GALAXY
+## ⟡ CONTRIBUTION GALAXY
 
 <div align="center">
 <picture>
@@ -105,7 +105,7 @@ I'm **Mrunal Mhetre**, a Computer Science Engineering student who enjoys learnin
 </picture>
 </div>
 
-## ⟡ 06 / LET'S CONNECT
+## ⟡ LET'S CONNECT
 
 <div align="center">
 
