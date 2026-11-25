@@ -38,9 +38,9 @@ A **Computer Science Engineering student** passionate about programming, web dev
 ## ⟡ GitHub Activity
 
 <div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmrunal16-lgtm&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmrunal16-lgtm&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 <br/>
-<img width="82%" src="https://github-readme-activity-graph.vercel.app/graph?username=smmrunal16-lgtm&theme=tokyo-night&hide_border=true&area=true&height=180" alt="Contribution activity"/>
+<img width="62%" src="https://github-readme-activity-graph.vercel.app/graph?username=smmrunal16-lgtm&theme=tokyo-night&hide_border=true&area=true&height=130&custom_title=Recent%20Coding%20Activity" alt="Contribution activity"/>
 </div>
 
 ## ⟡ Connect
@@ -52,3 +52,5 @@ A **Computer Science Engineering student** passionate about programming, web dev
 **“Dream it. Design it. Develop it.”**
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:172554,100:4C1D95&height=100&section=footer&animation=twinkling" alt="Animated profile footer"/>
