@@ -87,16 +87,24 @@ I'm **Mrunal Mhetre**, a Computer Science Engineering student who enjoys learnin
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=smmrunal16-lgtm&show_icons=true&include_all_commits=true&count_private=true&card_width=620&hide_border=true&rank_icon=github&bg_color=080D1B&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmrunal16-lgtm&layout=donut-vertical&langs_count=6&card_width=520&hide_border=true&bg_color=080D1B&title_color=67E8F9&text_color=E2E8F0" alt="Top languages"/>
+<table>
+<tr>
+<td width="50%" align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=smmrunal16-lgtm&show_icons=true&include_all_commits=true&hide_border=true&border_radius=14&rank_icon=github&theme=tokyonight" alt="GitHub profile statistics"/>
+</td>
+<td width="50%" align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmrunal16-lgtm&layout=compact&langs_count=8&hide_border=true&border_radius=14&theme=tokyonight" alt="Most used programming languages"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=smmrunal16-lgtm&theme=tokyonight&hide_border=true&border_radius=14" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
-<img width="82%" src="https://streak-stats.demolab.com?user=smmrunal16-lgtm&hide_border=true&background=080D1B&ring=22D3EE&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=smmrunal16-lgtm&bg_color=080D1B&color=CBD5E1&line=22D3EE&point=A78BFA&area=true&hide_border=true&custom_title=MY%20CODING%20ACTIVITY" alt="GitHub activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=smmrunal16-lgtm&theme=tokyo-night&hide_border=true&radius=14&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
 
 </div>
 
