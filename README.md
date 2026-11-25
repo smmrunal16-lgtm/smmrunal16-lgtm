@@ -82,34 +82,6 @@ I'm **Mrunal Mhetre**, a Computer Science Engineering student who enjoys learnin
 <a href="https://github.com/smmrunal16-lgtm/C-Language-practice-program"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=smmrunal16-lgtm&repo=C-Language-practice-program&theme=tokyonight&hide_border=true" alt="C practice project card"/></a>
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ Smart Guardian
-**IoT-Based Manhole Monitoring System**
-
-Portable safety-monitoring concept for detecting hazardous gases and sending alerts.
-
-ESP32 · MQ136 · MQ6 · DHT22 · GSM
-
-[↗ View source code](https://github.com/smmrunal16-lgtm/Smart-Guardian-IoT-Manhole-Monitoring-System)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ C Language Practice
-**Programming Fundamentals & Logic Building**
-
-A growing collection of C programming exercises, core concepts, and hands-on practice programs.
-
-C · Fundamentals · Problem Solving
-
-[↗ View repository](https://github.com/smmrunal16-lgtm/C-Language-practice-program)
-
-</td>
-</tr>
-</table>
 
 ## ⟡ 04 / GITHUB ANALYTICS
 
