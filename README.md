@@ -98,14 +98,14 @@ ESP32 · MQ136 · MQ6 · DHT22 · GSM
 </td>
 <td width="50%" valign="top">
 
-### 🩺 AI Healthcare Chatbot
-**Healthcare Information Project**
+### ⚙️ C Language Practice
+**Programming Fundamentals & Logic Building**
 
-A chatbot-based healthcare information project with a PHP frontend.
+A growing collection of C programming exercises, core concepts, and hands-on practice programs.
 
-PHP · Frontend · Chatbot
+C · Fundamentals · Problem Solving
 
-[↗ View repository](https://github.com/smmrunal16-lgtm/AI-Healthcare-Chatbot-)
+[↗ View repository](https://github.com/smmrunal16-lgtm/C-Language-practice-program)
 
 </td>
 </tr>
