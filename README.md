@@ -1,156 +1,150 @@
-<!--
-  MRUNAL MHETRE | GITHUB PROFILE
-  Theme: Midnight • Electric Cyan • Violet
--->
+<!-- MRUNAL MHETRE | ADVANCED PROFILE README | MIDNIGHT AURORA -->
 
 <div align="center">
-
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&text=MRUNAL%20MHETRE&fontSize=64&fontColor=EAFBFF&fontAlignY=42&desc=COMPUTER%20SCIENCE%20ENGINEERING%20%7C%20DEVELOPER%20IN%20PROGRESS&descSize=15&descAlignY=64&animation=fadeIn&color=0:050816,45:101B3D,100:075985" alt="Mrunal Mhetre animated profile banner" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=850&height=55&lines=Hey%2C+I'm+Mrunal+Mhetre+%F0%9F%91%8B;Computer+Science+Engineering+Student;Exploring+Web+Development+%7C+IoT+%7C+AI;Turning+ideas+into+working+projects;LEARN.+BUILD.+INNOVATE." alt="Animated introduction" />
-
-  <br/>
-
-  <a href="https://github.com/smmrunal16-lgtm">
-    <img src="https://komarev.com/ghpvc/?username=smmrunal16-lgtm&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/smmrunal16-lgtm?tab=followers">
-    <img src="https://img.shields.io/github/followers/smmrunal16-lgtm?style=for-the-badge&logo=github&color=334155&label=FOLLOWERS" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/smmrunal16-lgtm?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore repositories"/>
-  </a>
-
-  <br/><br/>
-  **✦ Curious Mind &nbsp; • &nbsp; Practical Builder &nbsp; • &nbsp; Lifelong Learner ✦**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=MRUNAL%20MHETRE&fontSize=66&fontColor=E6FCFF&stroke=67E8F9&strokeWidth=1&animation=twinkling&fontAlignY=42&desc=COMPUTER%20SCIENCE%20ENGINEERING%20%E2%80%A2%20DEVELOPER%20IN%20PROGRESS&descSize=14&descColor=C4B5FD&descAlignY=63&color=0:020617,35:0B1B3A,70:172554,100:312E81" alt="Mrunal Mhetre animated profile banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=850&color=67E8F9&center=true&vCenter=true&width=850&height=55&lines=Hello%2C+World!+I'm+Mrunal+%F0%9F%91%8B;CSE+Student+%7C+Curious+Developer;Web+Development+%7C+IoT+%7C+Programming;Turning+ideas+into+practical+projects;LEARN+%E2%80%A2+BUILD+%E2%80%A2+IMPROVE+%E2%80%A2+REPEAT" alt="Animated developer introduction"/>
+<br/>
+<a href="https://github.com/smmrunal16-lgtm"><img src="https://komarev.com/ghpvc/?username=smmrunal16-lgtm&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/></a>
+<a href="https://github.com/smmrunal16-lgtm?tab=followers"><img src="https://img.shields.io/github/followers/smmrunal16-lgtm?style=for-the-badge&logo=github&label=FOLLOWERS&color=4f46e5" alt="GitHub followers"/></a>
+<a href="https://github.com/smmrunal16-lgtm?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-0f172a?style=for-the-badge&logo=github&logoColor=67e8f9" alt="Explore repositories"/></a>
+<br/><br/>
+**✦ CURIOUS BY NATURE &nbsp; / &nbsp; BUILDER BY PRACTICE &nbsp; / &nbsp; LEARNER FOR LIFE ✦**
 </div>
 
 ---
 
-## ◈ ABOUT ME
+## ◈ 01 — DEVELOPER PROFILE
 
 <table>
-  <tr>
-    <td width="58%" valign="top">
+<tr>
+<td width="58%" valign="top">
 
-### Hello, World! 👋
+### Hey there! 👋
+I'm **Mrunal Mhetre**, a Computer Science Engineering student interested in creating useful digital experiences and practical technology projects.
 
-I'm **Mrunal Mhetre**, a Computer Science Engineering student who enjoys exploring technology and building practical projects.
+- 🎓 Diploma completed • Currently pursuing CSE
+- 💻 Exploring programming and software development
+- 🌐 Interested in modern, responsive web experiences
+- 🔌 Building knowledge in IoT and connected systems
+- 🧩 Practising problem-solving one concept at a time
+- 🚀 Focused on learning through hands-on projects
 
-- 🎓 Diploma completed; currently pursuing CSE
-- 💻 Interested in programming and software development
-- 🌐 Exploring modern web technologies
-- 🔌 Interested in IoT and connected systems
-- 🚀 Learning by building, testing, and improving
-
-    </td>
-    <td width="42%" valign="top">
+</td>
+<td width="42%" valign="top">
 
 ### Developer snapshot
-
-~~~js
-const mrunal = {
-  role: "CSE Student",
-  interests: ["Web Development", "IoT", "AI & Technology"],
-  mindset: "Always Learning",
-  goal: "Build useful things"
-};
+~~~json
+{
+  "name": "Mrunal Mhetre",
+  "role": "CSE Student",
+  "interests": ["Web Development", "IoT", "Programming"],
+  "mindset": "Build & Improve",
+  "currently": "Learning by Doing",
+  "mission": "Create with purpose"
+}
 ~~~
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-## ◈ TECH STACK
+## ◈ 02 — TECHNOLOGY TOOLKIT
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,php,html,css,js,react,nodejs,arduino,git,github,vscode&perline=6&theme=dark" alt="Technology stack icons"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/FOCUS-Programming%20%26%20Problem%20Solving-082f49?style=for-the-badge&labelColor=020617" alt="Focus"/>
-  <img src="https://img.shields.io/badge/MINDSET-Always%20Learning-312e81?style=for-the-badge&labelColor=020617" alt="Mindset"/>
+
+**LANGUAGES & WEB**
+<br/>
+<img src="https://skillicons.dev/icons?i=c,java,php,html,css,js&theme=dark" alt="C, Java, PHP, HTML, CSS and JavaScript"/>
+<br/><br/>
+**FRAMEWORKS, PLATFORMS & TOOLS**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,arduino,git,github,vscode&theme=dark" alt="React, Node.js, Arduino, Git, GitHub and VS Code"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/FOCUS-Problem%20Solving-082f49?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/INTEREST-IoT%20%26%20Web-312e81?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/MINDSET-Continuous%20Learning-164e63?style=for-the-badge&labelColor=020617"/>
 </div>
 
-## ◈ FEATURED PROJECTS
+## ◈ 03 — SELECTED BUILDS
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### 🛡️ Smart Guardian
-
 **IoT-Based Manhole Monitoring System**
 
-A safety-focused IoT concept for monitoring hazardous gases in manholes and sending alerts.
+A portable safety-monitoring concept designed to detect hazardous gases and send alerts for safer manhole inspections.
 
-**ESP32 · MQ136 · MQ6 · DHT22 · GSM**
+ESP32 · MQ136 · MQ6 · DHT22 · GSM
 
-<a href="https://github.com/smmrunal16-lgtm/Smart-Guardian-IoT-Manhole-Monitoring-System">↗ View project</a>
+[↗ Explore repository](https://github.com/smmrunal16-lgtm/Smart-Guardian-IoT-Manhole-Monitoring-System)
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### 🩺 AI Healthcare Chatbot
+**Healthcare Information Project**
 
-A healthcare information chatbot concept with a PHP-based frontend, designed to make information easier to access.
+A chatbot-based healthcare information project with a PHP frontend, created to explore accessible digital healthcare experiences.
 
-**PHP · Web Development · Chatbot**
+PHP · Frontend · Chatbot
 
-<a href="https://github.com/smmrunal16-lgtm/AI-Healthcare-Chatbot-">↗ View project</a>
+[↗ Explore repository](https://github.com/smmrunal16-lgtm/AI-Healthcare-Chatbot-)
 
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### ⚙️ C Language Practice
+A growing collection of C programming exercises, core concepts, and hands-on practice programs.
 
-A growing collection of C programming practice, concepts, and problem-solving exercises.
+C · Fundamentals · Logic Building
 
-**C · Programming · Practice**
+[↗ Explore repository](https://github.com/smmrunal16-lgtm/C-Language-practice-program)
 
-<a href="https://github.com/smmrunal16-lgtm/C-Language-practice-program">↗ View repository</a>
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-## ◈ GITHUB ANALYTICS
+## ◈ 04 — GITHUB COMMAND CENTER
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=smmrunal16-lgtm&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmrunal16-lgtm&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=CBD5E1" alt="Top languages"/>
-  <br/><br/>
-  <img width="78%" src="https://streak-stats.demolab.com?user=smmrunal16-lgtm&hide_border=true&background=050816&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
-  <br/><br/>
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=smmrunal16-lgtm&bg_color=050816&color=CBD5E1&line=67E8F9&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=smmrunal16-lgtm&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=DCEBFA" alt="GitHub statistics"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmrunal16-lgtm&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=DCEBFA" alt="Most used languages"/>
+<br/><br/>
+<img width="82%" src="https://streak-stats.demolab.com?user=smmrunal16-lgtm&hide_border=true&background=050816&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=DCEBFA&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+<br/><br/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=smmrunal16-lgtm&bg_color=050816&color=DCEBFA&line=67E8F9&point=A78BFA&area=true&hide_border=true&custom_title=THE%20BUILD%20LOG%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" alt="Contribution activity graph"/>
 </div>
 
-## ◈ CONTRIBUTION SNAKE
+## ◈ 05 — CONTRIBUTION TRAIL
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smmrunal16-lgtm/smmrunal16-lgtm/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smmrunal16-lgtm/smmrunal16-lgtm/output/github-contribution-grid-snake.svg"/>
-    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/smmrunal16-lgtm/smmrunal16-lgtm/output/github-contribution-grid-snake.svg"/>
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smmrunal16-lgtm/smmrunal16-lgtm/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smmrunal16-lgtm/smmrunal16-lgtm/output/github-contribution-grid-snake.svg"/>
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/smmrunal16-lgtm/smmrunal16-lgtm/output/github-contribution-grid-snake.svg"/>
+</picture>
 </div>
 
-## ◈ CURRENT LEARNING ROADMAP
+## ◈ 06 — LEARNING FLIGHT PLAN
 
-- [x] Build academic and practical projects
-- [x] Explore programming and web technologies
-- [ ] Strengthen Data Structures & Algorithms
-- [ ] Build advanced full-stack applications
-- [ ] Improve software engineering practices
-- [ ] Contribute to open-source projects
+| Track | Next milestone |
+|:--|:--|
+| 🧠 Problem Solving | Strengthen DSA and logical thinking |
+| 🌐 Web Engineering | Build polished, responsive applications |
+| ⚙️ Software Development | Practise clean code and project structure |
+| 🔌 IoT | Explore sensors and connected devices |
+| 🌍 Open Source | Learn collaboration and contribute |
 
-## ◈ LET'S CONNECT
+## ◈ 07 — CONNECT & COLLABORATE
 
 <div align="center">
-  <a href="https://github.com/smmrunal16-lgtm">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-  </a>
-  <br/><br/>
-  **“Think boldly. Build consistently. Keep innovating.”**
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:075985,50:312e81,100:050816" alt="Animated footer"/>
+<a href="https://github.com/smmrunal16-lgtm"><img src="https://img.shields.io/badge/GITHUB-Explore%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/smmrunal16-lgtm?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-See%20what%20I'm%20building-0e7490?style=for-the-badge&logo=github"/></a>
+<br/><br/>
+**“Great things are built one commit at a time.”**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:020617,45:172554,100:312e81&animation=twinkling" alt="Animated profile footer"/>
 </div>
